@@ -1,0 +1,18 @@
+.form-group {
+	padding: 15px;
+  height: 100%;
+}
+
+.form-group .textarea {
+	resize: none;
+	height: 100%;
+}
+
+.input {
+	padding: 15px 30px;
+}
+
+.form-row .form-control {
+  font-size: 14px;
+  color: #bbbbbb;
+}

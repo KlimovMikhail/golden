@@ -1,0 +1,72 @@
+.section {
+  padding: 120px 10px;
+  z-index: 0;
+}
+
+.section-background {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -2;
+}
+
+.section-background > img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.back {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  background-color: #000000;
+  opacity: 0.5;
+}
+
+.section .container {
+  height: 100%;
+}
+
+.section .section-foreground {
+  height: 100%;
+}
+
+.section-hero, .section-foreground {
+  padding: 0;
+}
+
+.section-hero .jumbotron-fluid {
+  padding: 160px 10px;
+}
+
+.section-hero .header {
+  padding: 40px 10px;
+}
+
+.section-service {
+  padding-bottom: 70px;
+}
+
+.section-portfolio, .section-team {
+  background-color: #f7f7f7;
+}
+
+.section-contacts {
+  background-color: #222222;
+}
+
+.section-brands img {
+  padding: 15px;
+}
+
+.section-brands {
+  padding: 60px 10px;
+}
+
+.section-footer {
+  padding: 25px 10px;
+}

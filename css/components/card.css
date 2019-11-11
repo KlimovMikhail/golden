@@ -1,0 +1,24 @@
+.card {
+  border: none;
+}
+
+.card-team > img {
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+}
+
+.card-team {
+  background-color: #f7f7f7;
+}
+
+.card-portfolio, .card-team {
+  margin-bottom: 50px;
+}
+
+.card-portfolio > img {
+  max-width: 300px;
+  margin-bottom: 50px;
+}
+

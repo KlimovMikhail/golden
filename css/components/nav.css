@@ -1,0 +1,32 @@
+.navbar .nav .nav-item .nav-link.active {
+  color: #fed136;
+}
+
+.navbar .nav .nav-item .nav-link:hover {
+  color: #fed136;
+  text-decoration: none;
+}
+
+.nav .nav-item .nav-link{
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #fed136;
+}
+
+.social-link {
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.social-link:hover {
+  color: #fed136;
+}
